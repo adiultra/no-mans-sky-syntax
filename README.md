@@ -3,7 +3,7 @@
 A Smooth theme inspired by No Man's Sky's Wallpaper
 
 ## Screenshot
-![Syntax shot](https://raw.githubusercontent.com/adiultra/no-mans-sky-syntax/master/syntax.png)
+![Syntax shot](https://raw.githubusercontent.com/adiultra/no-mans-sky-syntax/master/syntax2.png)
 
 ## Wall :computer:
 
