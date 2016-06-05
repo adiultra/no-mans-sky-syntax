@@ -11,3 +11,7 @@ A Smooth theme inspired by No Man's Sky's Wallpaper
 
 ## Pallete :rainbow:
 ![Pallete](pallete.png)
+
+---
+
+_Wallpaper_ available here : http://gameranx.com/wp-content/uploads/2016/02/No-Mans-Sky-4-K-Wallpaper.jpg

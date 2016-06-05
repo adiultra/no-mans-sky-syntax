@@ -2,12 +2,16 @@
   "name": "no-mans-sky-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A theme inspired by No Man's Sky Wallpaper",
   "keywords": [
     "syntax",
+    "light",
+    "green",
+    "calm",
+    "teal",
     "theme"
   ],
-  "repository": "https://github.com/atom/no-mans-sky-syntax",
+  "repository": "https://github.com/adiultra/no-mans-sky-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
